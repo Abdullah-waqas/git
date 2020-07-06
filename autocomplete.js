@@ -7,3 +7,5 @@ var obj = {
         return this.id;
     }
 }
+
+console.log("This is autoc omplaete")
