@@ -10,3 +10,6 @@ var obj = {
 
 console.log("This is autocomplete")
 alert("this is autocomplete")
+console.log("This is autoc omplaete")
+
+console.log(obj.get());
