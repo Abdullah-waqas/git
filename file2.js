@@ -1,1 +1,1 @@
-const file2 = 'file2';
+const file2 = 'file-2';
